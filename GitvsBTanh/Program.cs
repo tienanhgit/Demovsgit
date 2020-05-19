@@ -6,7 +6,7 @@ namespace GitvsBTanh
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Bui Tien Anh 2!");
+            Console.WriteLine("Hello Bui Tien Anh _ Dang o branch btanh_desktop!");
         }
     }
 }
